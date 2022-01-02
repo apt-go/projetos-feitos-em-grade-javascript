@@ -46,7 +46,7 @@ function pontos_right_left () {
           let p = ponto.aleatorio([57,115, 173, 231, 289, 347]);
           ponto.ponto_mov_esquerda(p, (p - 57), "#000", 200);
         let tmerRastro = setTimeout(function() {
-          ponto.ponto_mov_esquerda(p, (p - 57), "#ccc", 200);
+          ponto.ponto_mov_esquerda(p, (p - 57), "#f1f1f1", 200);
         } , 200);
       
       }, 200);
@@ -61,7 +61,7 @@ function pontos_left_right () {
           let p = ponto.aleatorio([0, 58, 116, 174, 232, 290]);
           ponto.ponto_mov_direita(p, (p + 57), "#000", 200);
         let tmerRastro = setTimeout(function() {
-          ponto.ponto_mov_direita(p, (p + 57), "#ccc", 200);
+          ponto.ponto_mov_direita(p, (p + 57), "#f1f1f1", 200);
         } , 200);
       
       }, 200);
