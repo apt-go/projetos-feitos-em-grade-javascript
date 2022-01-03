@@ -10,4 +10,4 @@ Atualmente, o título já está presente também nos sistemas mais modernos como
 no Google ou Facebook..." 
 fonte: <a href="https://www.techtudo.com.br/listas/2020/05/nokia-faz-155-anos-veja-curiosidades-do-jogo-da-cobrinha-do-tijolao.ghtml" >Tectudo.com.br</a>
   </i>
-/code>
+</code>
