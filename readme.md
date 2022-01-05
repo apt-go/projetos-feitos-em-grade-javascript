@@ -11,3 +11,6 @@ no Google ou Facebook..."
 fonte: <a href="https://www.techtudo.com.br/listas/2020/05/nokia-faz-155-anos-veja-curiosidades-do-jogo-da-cobrinha-do-tijolao.ghtml">Tectudo.com.br</a>
   </i>
 </code>
+<h4>Descrição do Projeto</h4>
+<p align="justify">Este projeto tem por objetivo ajudar aqueles que querem fazer um gif animado no seu repositório principal, mas têm dificuldade em
+ montar um jogo de cobrinha ou uma grade igual a do GitHub que mostra o quanto você codou. O código está bem pequeno bastando editá-lo</a>
