@@ -1,4 +1,4 @@
-<h1>Projetos estilo jogo d cobrinha usando uma grade feita em javascript</h1>
+<h1>Projetos estilo jogo de cobrinha usando uma grade feita em javascript</h1>
 <h4>Introdução</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
