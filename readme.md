@@ -1,4 +1,4 @@
-<h1>Projetos estilo jogo d cobrinha usando uma grade feita em javascript</h1>
+<h1>Projetos estilo jogo de cobrinha usando uma grade feita em javascript</h1>
 <b>Introdução</b>
 <p>Olá a todos, Quem não lembra daqueles projetos feitos em javascript 90s. Na época as pessoas que jogavam e passavam horas se divertindo. </p>
 
